@@ -1,0 +1,8 @@
+Quantity,References,Value / Part,Footprint,Datasheet / Source,Notes
+5,"J1, J2, J3, J4, J5",2601-1104,2601-1104:CONN4_2601-1104_WAG,2601-1104,"WAGO four-position connector; exact manufacturer metadata not embedded beyond part number"
+1,J7,2601-1102,2601-1102:CONN2_2601-1102_WAG,2601-1102,"WAGO two-position connector; exact manufacturer metadata not embedded beyond part number"
+2,"RJ1, RJ2",R-RJ45R08P-B000,easyeda2kicad:RJ45-TH_R-RJ45R08P-B000,https://lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-RJ45-RJ11_Shenzhen-Cankemeng-R-RJ45R08P-B000_C386756.html,"Through-hole RJ45 modular connector"
+1,R1,R,Resistor_SMD:R_1206_3216Metric,~,"Resistance value is not specified in the supplied schematic"
+1,C1,VT1C102M1010,easyeda2kicad:CAP-SMD_BD10.0-L10.3-W10.3-LS11.3-FD,https://lcsc.com/product-detail/Others_ROQANG-VT1C102M1010_C310843.html,"Bulk capacitor as specified by schematic value"
+1,D1,LED,LED_SMD:LED_0603_1608Metric,~,"0603 indicator LED; color/part number not specified in the supplied schematic"
+2,"H1, H2",MountingHole_#4-40_UNC_3A,MountingHole_Imperial:MountingHole_#4-40_UNC_3A,https://www.mcmaster.com/products/screws/,"Mechanical mounting holes; listed for completeness, not a purchased PCB component"
