@@ -25,6 +25,7 @@ The resistor value is not specified in the supplied schematic, so the BOM leaves
 
 ```text
 .
+├── LICENSE
 ├── README.md
 ├── REVISION_LOG.md
 ├── bom/
@@ -78,4 +79,4 @@ The supplied assets use more than one numbering scheme: photo filenames use “V
 
 ## License
 
-No license was supplied with the project, so this repository does **not** assign one. Add a hardware/documentation license when the team has chosen one.
+This project is licensed under the [MIT License](LICENSE).
