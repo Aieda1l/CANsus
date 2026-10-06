@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WAGO_2601-3102")(type "KiCad")(uri "${KIPRJMOD}/component_library/Symbols/WAGO_2601-3102.kicad_sym")(options "")(descr ""))
+  (lib (name "SS-7188-NF")(type "KiCad")(uri "${KIPRJMOD}/component_library/Footprints/SS-7188-NF.pretty/SS-7188-NF.kicad_sym")(options "")(descr ""))
+  (lib (name "GF1C102MF160A00CV0")(type "KiCad")(uri "${KIPRJMOD}/component_library/GF1C102MF160A00CV0/GF1C102MF160A00CV0.kicad_sym")(options "")(descr ""))
+)
